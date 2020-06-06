@@ -16,8 +16,9 @@ asdf update
 brew install dart
 asdf plugin-add flutter
 
-asdf install flutter 1.17.2-stable
+asdf install flutter 1.17.3-stable
 
+echo 'flutter 1.17.3-stable' >> ~/.tool-versions
 # remove asdf
 #rm -rf ~/.tool-versions ~/.asdf
 
