@@ -2,6 +2,8 @@
 
 find packages at https://pub.dev/
 
+## styled_widget
+- https://github.com/ReinBentdal/styled_widget
 
 ## Bloc pattern
  - https://pub.dev/packages/bloc
