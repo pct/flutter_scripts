@@ -2,6 +2,8 @@
 
 find packages at https://pub.dev/
 
+MUST USE IDE to develop flutter or waste your time
+
 # IDEA Plugins
 ## ** UI gengerator
 - https://plugins.jetbrains.com/plugin/12313-flutter-app-template-generator
