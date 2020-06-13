@@ -2,8 +2,15 @@
 
 find packages at https://pub.dev/
 
+# IDEA Plugins
 ## ** UI gengerator
 - https://plugins.jetbrains.com/plugin/12313-flutter-app-template-generator
+
+## Plugin add
+- https://plugins.jetbrains.com/plugin/13459-flutter-plugins/
+
+
+----
 
 ## styled_widget
 - https://github.com/ReinBentdal/styled_widget
