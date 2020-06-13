@@ -9,6 +9,8 @@ find packages at https://pub.dev/
 ## Plugin add
 - https://plugins.jetbrains.com/plugin/13459-flutter-plugins/
 
+# IDEA flutter sdk path
+- ~/.asdf/installs/flutter/1.17.3-stable
 
 ----
 
