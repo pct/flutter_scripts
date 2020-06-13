@@ -12,6 +12,9 @@ find packages at https://pub.dev/
 # IDEA flutter sdk path
 - ~/.asdf/installs/flutter/1.17.3-stable
 
+# IDEA command line
+- https://www.jetbrains.com/help/idea/working-with-the-ide-features-from-command-line.html
+    
 ----
 
 ## styled_widget
