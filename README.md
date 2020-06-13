@@ -2,6 +2,9 @@
 
 find packages at https://pub.dev/
 
+## ** UI gengerator
+- https://plugins.jetbrains.com/plugin/12313-flutter-app-template-generator
+
 ## styled_widget
 - https://github.com/ReinBentdal/styled_widget
 
