@@ -7,7 +7,7 @@ brew install mas
 mas install 497799835
 
 # asdf
-git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.7.8
+git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.8.0
 echo "source ~/.asdf/asdf.fish" >> ~/.config/fish/config.fish
 mkdir -p ~/.config/fish/completions; and cp ~/.asdf/completions/asdf.fish ~/.config/fish/completions
 asdf update
@@ -16,9 +16,9 @@ asdf update
 brew install dart
 asdf plugin-add flutter
 
-asdf install flutter 1.17.3-stable
+asdf install flutter 1.22.5-stable
 
-echo 'flutter 1.17.3-stable' >> ~/.tool-versions
+echo 'flutter 1.22.5-stable' >> ~/.tool-versions
 # remove asdf
 #rm -rf ~/.tool-versions ~/.asdf
 
