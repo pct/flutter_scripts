@@ -1,10 +1,6 @@
 #!/bin/sh
 
-# 安裝 cli 版的 app store
-brew install mas
-
-# 裝 Xcode
-mas install 497799835
+FLUTTER_VERSION="2.0.6-stable"
 
 # asdf
 git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.8.0
@@ -15,10 +11,12 @@ asdf update
 # flutter dev
 brew install dart
 asdf plugin-add flutter
+brew upgrade dart-lang/dart/dart
 
-asdf install flutter 1.22.5-stable
+asdf install flutter $FLUTTER_VERSION
 
-echo 'flutter 1.22.5-stable' >> ~/.tool-versions
+echo "flutter $FLUTTER_VERSION" >> ~/.tool-versions
+
 # remove asdf
 #rm -rf ~/.tool-versions ~/.asdf
 
