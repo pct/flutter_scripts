@@ -10,8 +10,8 @@ asdf update
 
 # flutter dev
 brew install dart
-asdf plugin-add flutter
 brew upgrade dart-lang/dart/dart
+asdf plugin-add flutter
 
 asdf install flutter $FLUTTER_VERSION
 
